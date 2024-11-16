@@ -42,4 +42,14 @@ To update the extension after making changes to the code:
 
 ## License
 
-[Add your chosen license here]
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+You are free to:
+- Use this software for any purpose
+- Change the software to suit your needs
+- Share the software with others
+- Share the changes you make
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+For the full license text, visit: https://www.gnu.org/licenses/gpl-3.0.en.html
