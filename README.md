@@ -2,6 +2,8 @@
 
 A simple Chrome extension that adds an "Open with Bricks" option to the right-click context menu. When clicked, it opens the current page or clicked link in a new tab with "?bricks=run" appended to the URL.
 
+![Open with Bricks context menu](image.png)
+
 ## Features
 
 - Adds "Open with Bricks" to Chrome's right-click context menu
