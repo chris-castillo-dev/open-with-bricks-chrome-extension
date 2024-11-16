@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Open with Bricks",
+  "version": "1.0",
+  "description": "Adds 'Open with Bricks' option to context menu",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
